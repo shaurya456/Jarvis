@@ -57,14 +57,10 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 
 
 ## Contact
-If you would like to contact me, you can reach me at shaswatgusain1@gmail.com.
+If you would like to contact me, you can reach me at belwalshaurya820@gmail.com.
 
 
-## Links
-[GitHub] (https://github.com/Boahan)
-
-[LinkedIn] (https://www.linkedin.com/in/shaswat-gusain-2924a324a)
 
 
 ## Copyright
-Copyright © 2024 Shaswat Gusain.
+Copyright © 2024 Shaurya Belwal.
